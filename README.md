@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### 1. Run Optimization
 ```bash
-python scripts/run_optimization.py
+python scripts/run_optimisation.py
 ```
 
 ### 2. Final Validation
