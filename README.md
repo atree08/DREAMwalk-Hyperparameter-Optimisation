@@ -30,7 +30,7 @@ python scripts/run_final_10fold.py
 
 ### 3. Generate Visualizations
 ```bash
-python scripts/create_visualizations.py
+python scripts/create_visualisations.py
 ```
 
 ## Results
