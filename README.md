@@ -60,3 +60,4 @@ Multi-layer knowledge graph learning for rare disease drug repurposing
 
 Atreyi Bhattacharyya - atreyi0112@gmail.com
 Shaikh Muskan - shaikhmuskanx@gmail.com
+Guan Xue Hui - fionaguan1@gmail.com
